@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 # Twilio credentials
 TWILIO_ACCOUNT_SID = "AC0061533eda6b5dd58b201bd943f11927"
-TWILIO_AUTH_TOKEN = "c99e4435c963ba743355c775665bec8b"
+TWILIO_AUTH_TOKEN = "681d3c978a1ba63eba2fd04275da8e7d"
 TWILIO_PHONE_NUMBER = "+18313026534"
 
 # Initialize Twilio client
